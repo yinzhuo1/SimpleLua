@@ -1,0 +1,11 @@
+Debug/vc110.pdb
+Debug/cl.command.1.tlog
+Debug/CL.write.1.tlog
+Debug/l.object.obj
+*.obj
+Debug/vc110.idb
+Debug/SimpleLua.log
+*.unsuccessfulbuild
+Debug/SimpleLua.lastbuildstate
+Debug/CL.read.1.tlog
+*.log
